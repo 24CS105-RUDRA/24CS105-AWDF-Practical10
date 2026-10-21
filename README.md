@@ -1,9 +1,9 @@
 # Practical 10: Asynchronous Processing with Event-Driven Architecture
 
 **Course:** Advanced Web Development Frameworks (ITUE301)  
-**Student Name:** Dharm Lakhani  
-**Student ID:** 24CS046  
-**GitHub Repository:** [https://github.com/24CS046Dharm/24cs046-awdf-practical10](https://github.com/24CS046Dharm/24cs046-awdf-practical10)
+**Student Name:** Rudra Vaghela  
+**Student ID:** 24CS105  
+**GitHub Repository:** [https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical10](https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical10)
 
 ---
 
@@ -105,7 +105,7 @@ npm test
 ```
 ===============================================================
   Practical 10: Node.js EventEmitter Asynchronous Verification
-  Student: Dharm Lakhani (24CS046) | Course: ITUE301
+  Student: Rudra Vaghela (24CS105) | Course: ITUE301
 ===============================================================
 
 [PASS] Setup: User registered and JWT token acquired
@@ -137,11 +137,11 @@ Test Results Summary: 9 / 9 Tests Passed (100%)
 ## 🛠 Project Structure
 
 ```
-24cs046-awdf-practical10/
+24CS105-AWDF-Practical10/
 ├── package.json                   # Root monorepo workspace scripts
 ├── .gitignore                     # Git ignore rules for node_modules, build & .env
 ├── README.md                      # Comprehensive laboratory documentation
-├── pract-10-awdf-24cs046.docx     # Formal Word report for lab submission
+├── pract-10-awdf-24cs105.docx     # Formal Word report for lab submission
 ├── server/
 │   ├── events/
 │   │   ├── events.js              # Native EventEmitter instance
@@ -177,8 +177,8 @@ Test Results Summary: 9 / 9 Tests Passed (100%)
 
 ### 1. Clone Repository:
 ```bash
-git clone https://github.com/24CS046Dharm/24cs046-awdf-practical10.git
-cd 24cs046-awdf-practical10
+git clone https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical10.git
+cd 24CS105-AWDF-Practical10
 ```
 
 ### 2. Configure Backend Environment:
